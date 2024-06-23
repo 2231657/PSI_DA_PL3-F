@@ -1,0 +1,10 @@
+----- Fatura -----
+Cliente: d
+Tipo: Estudante
+Prato: asd
+Preço Menu: 2,00 €
+Extras:
+- Nenhum extra selecionado
+Multa: Nenhuma
+Total Gasto: 2,00 €
+------------------

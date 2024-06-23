@@ -1,0 +1,9 @@
+----- Fatura -----
+Cliente: d
+Tipo: Estudante
+Prato: asd
+Extras:
+- Sal: 0,50 €
+Multa: 5,00 - Valor: 5,00 €
+Total Gasto: 7,50 €
+------------------

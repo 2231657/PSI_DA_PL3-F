@@ -1,0 +1,11 @@
+----- Fatura -----
+Cliente: ESTUDANTE
+Tipo: Estudante
+Prato: asd
+Preço Menu: 2,00 €
+Extras:
+- Sal: 0,50 €
+- Tomate: 1,00 €
+Multa: Nenhuma
+Total Gasto: 3,50 €
+------------------

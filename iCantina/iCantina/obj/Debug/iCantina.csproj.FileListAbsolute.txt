@@ -1,0 +1,119 @@
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\bin\Debug\iCantina.exe.config
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\bin\Debug\iCantina.exe
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\bin\Debug\iCantina.pdb
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\bin\Debug\EntityFramework.dll
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\bin\Debug\EntityFramework.xml
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.csproj.AssemblyReference.cache
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Migrations.InitialCreate.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Migrations.cantina.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Properties.Resources.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.Formulario_Estudante.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.Formulario_Extras.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.Formulario_Funcionario.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.Formulario_Menu.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.Formulario_Multa.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.Formulario_Pratos.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.Formulario_Principal.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.Formulario_Professor.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.Formulario_Reserva.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.csproj.GenerateResource.cache
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.csproj.CoreCompileInputs.cache
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.csproj.Up2Date
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.exe
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.pdb
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormsLogin.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormsRegistar.resources
+C:\Users\SERGI\Downloads\DA_Project-master\Main_Form\bin\Debug\Guna.UI2.dll
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\bin\Debug\iCantina.exe.config
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\bin\Debug\iCantina.exe
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\bin\Debug\iCantina.pdb
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\bin\Debug\EntityFramework.dll
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\bin\Debug\Guna.UI2.dll
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\bin\Debug\EntityFramework.xml
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.csproj.AssemblyReference.cache
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Migrations.InitialCreate.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Migrations.cantina.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Properties.Resources.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.csproj.GenerateResource.cache
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.csproj.CoreCompileInputs.cache
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.csproj.Up2Date
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.exe
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.pdb
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormFatura.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormLogin.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormRegistar.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormCliente.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormExtra.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormFuncionario.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormMenu.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormMulta.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormPrato.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormPrincipal.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormProfessor.resources
+C:\Users\SERGI\Desktop\PROJETOS\DA_Project-master\Main_Form\obj\Debug\iCantina.Views.FormReserva.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Migrations.InitialCreate.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Migrations.cantina.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Properties.Resources.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormLogin.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormRegistar.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormCliente.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormExtra.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormFuncionario.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormMenu.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormMulta.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormPrato.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormPrincipal.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.Views.FormReserva.resources
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.csproj.GenerateResource.cache
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.exe
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.pdb
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\iCantina.exe.config
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\iCantina.exe
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\iCantina.pdb
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\EntityFramework.dll
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\Guna.UI2.dll
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\EntityFramework.xml
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\obj\Debug\iCantina.csproj.Up2Date
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\itextsharp.dll
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\artur\OneDrive\Ambiente de Trabalho\Cantina\Cantina\bin\Debug\itextsharp.xml
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\iCantina.exe.config
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\iCantina.exe
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\iCantina.pdb
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\EntityFramework.dll
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\Guna.UI2.dll
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\itextsharp.dll
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\EntityFramework.xml
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\bin\Debug\itextsharp.xml
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.csproj.AssemblyReference.cache
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Migrations.InitialCreate.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Migrations.cantina.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Properties.Resources.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormLogin.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormRegistar.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormCliente.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormExtra.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormFuncionario.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormMenu.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormMulta.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormPrato.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormPrincipal.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.Views.FormReserva.resources
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.csproj.GenerateResource.cache
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.csproj.CoreCompileInputs.cache
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.csproj.Up2Date
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.exe
+C:\Users\SERGI\Desktop\PROJETOS\main\Cantina\Cantina\obj\Debug\iCantina.pdb
